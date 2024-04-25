@@ -1,7 +1,7 @@
 ## Overview 
-A program optimal_stations_network.py enabling the selection of optimal stations from among the existing networks of measurement stations to determine the spatial average value of the measured environmental parameter in the studied area.
+The program "selection_of_optimal_stations.py" enabling the selection of optimal stations from among the existing networks of measurement stations to determine the spatial average value of the measured environmental parameter in the studied area.
 
-The program optimal_stations_network.py calculates the optimum location of the network of measurement sites for determining the spatial mean value of the measured environmental parameter in the study area. The calculation is performed using a genetic algorithm on the basis of a time series of spatial data stored in a NetCDF file.
+The program "optimal_stations_network.py" calculates the optimum location of the network of measurement sites for determining the spatial mean value of the measured environmental parameter in the study area. The calculation is performed using a genetic algorithm on the basis of a time series of spatial data stored in a NetCDF file.
 
 ## Usage
 See the example Jupyter notebooks (optimal_stations_network.ipynb, selection_of_optimal_stations.ipynb). 
